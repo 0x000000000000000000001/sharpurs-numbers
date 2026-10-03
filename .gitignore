@@ -6,3 +6,4 @@ output.bak/
 /.psci*
 /src/.webpack.js
 .psc-ide-port
+.DS_Store
